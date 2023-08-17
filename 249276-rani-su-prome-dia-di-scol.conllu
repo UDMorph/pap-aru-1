@@ -1,4 +1,43 @@
 # newdoc id = 249276-rani-su-prome-dia-di-scol
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-2
+# text = ﻿Ta mi prome dia di scol.
+1	﻿Ta	ta	AUX	_	_	_	_	_	tokId=w-1
+2	mi	mi	PRON	_	_	_	_	_	tokId=w-2
+3	prome	prome	ADJ	_	_	_	_	_	tokId=w-3
+4	dia	dia	NOUN	_	_	_	_	_	tokId=w-4
+5	di	di	ADP	_	_	_	_	_	tokId=w-5
+6	scol	scol	NOUN	_	_	_	_	_	tokId=w-6|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-7
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-3
+# text = Mama ta tene mi man y ta cana cu mi.
+1	Mama	mama	PROPN	_	_	_	_	_	tokId=w-8
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-9
+3	tene	tene	VERB	_	_	_	_	_	tokId=w-10
+4	mi	mi	PRON	_	_	_	_	_	tokId=w-11
+5	man	man	NOUN	_	_	_	_	_	tokId=w-12
+6	y	y	SCONJ	_	_	_	_	_	tokId=w-13
+7	ta	ta	AUX	_	_	_	_	_	tokId=w-14
+8	cana	cana	NOUN	_	_	_	_	_	tokId=w-15
+9	cu	cu	ADP	_	_	_	_	_	tokId=w-16
+10	mi	mi	PRON	_	_	_	_	_	tokId=w-17|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-18
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-4
+# text = " Mi ta grandi caba", mi ta bisa. "
+1	"	_	PUNCT	_	_	_	_	_	tokId=w-19
+2	Mi	mi	PRON	_	_	_	_	_	tokId=w-20
+3	ta	ta	AUX	_	_	_	_	_	tokId=w-21
+4	grandi	grandi	ADJ	_	_	_	_	_	tokId=w-22
+5	caba	caba	NOUN	_	_	_	_	_	tokId=w-23|SpaceAfter=No
+6	"	_	PUNCT	_	_	_	_	_	tokId=w-24|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-25
+8	mi	mi	PRON	_	_	_	_	_	tokId=w-26
+9	ta	ta	AUX	_	_	_	_	_	tokId=w-27
+10	bisa	bisa	VERB	_	_	_	_	_	tokId=w-28|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-29
+12	"	_	PUNCT	_	_	_	_	_	tokId=w-30
+
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-5
 # text = Laga mi man bay, lag'e bay! "
 1	Laga	laga	VERB	_	_	_	_	_	tokId=w-31
@@ -11,6 +50,36 @@
 8	!	!	PUNCT	_	_	_	_	_	tokId=w-40
 9	"	_	PUNCT	_	_	_	_	_	tokId=w-41
 
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-6
+# text = Mama ta tene mi man bon duro.
+1	Mama	mama	PROPN	_	_	_	_	_	tokId=w-42
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-43
+3	tene	tene	VERB	_	_	_	_	_	tokId=w-44
+4	mi	mi	PRON	_	_	_	_	_	tokId=w-45
+5	man	man	NOUN	_	_	_	_	_	tokId=w-46
+6	bon	bon	ADV	_	_	_	_	_	tokId=w-47
+7	duro	duro	ADJ	_	_	_	_	_	tokId=w-48|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-49
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-9
+# text = ﻿Tin hopi mucha banda di scol.
+1	﻿Tin	tin	VERB	_	_	_	_	_	tokId=w-50
+2	hopi	hopi	ADV	_	_	_	_	_	tokId=w-51
+3	mucha	mucha	NOUN	_	_	_	_	_	tokId=w-52
+4	banda	banda	NOUN	_	_	_	_	_	tokId=w-53
+5	di	di	ADP	_	_	_	_	_	tokId=w-54
+6	scol	scol	NOUN	_	_	_	_	_	tokId=w-55|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-56
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-10
+# text = Nan ta bin cu bus.
+1	Nan	nan	PRON	_	_	_	_	_	tokId=w-57
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-58
+3	bin	bin	VERB	_	_	_	_	_	tokId=w-59
+4	cu	cu	ADP	_	_	_	_	_	tokId=w-60
+5	bus	bus	NOUN	_	_	_	_	_	tokId=w-61|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-62
+
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-11
 # text = Nan ta bin cu auto.
 1	Nan	nan	PRON	_	_	_	_	_	tokId=w-63
@@ -20,6 +89,16 @@
 5	auto	auto	NOUN	_	_	_	_	_	tokId=w-67|SpaceAfter=No
 6	.	.	PUNCT	_	_	_	_	_	tokId=w-68
 
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-12
+# text = Nan ta bin cu riksja* .
+1	Nan	nan	PRON	_	_	_	_	_	tokId=w-69
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-70
+3	bin	bin	VERB	_	_	_	_	_	tokId=w-71
+4	cu	cu	ADP	_	_	_	_	_	tokId=w-72
+5	riksja	riksja	NOUN	_	_	_	_	_	tokId=w-73|SpaceAfter=No
+6	*	_	_	_	_	_	_	_	tokId=w-74
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-75
+
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-13
 # text = Nan ta core bais.
 1	Nan	nan	PRON	_	_	_	_	_	tokId=w-76
@@ -27,6 +106,48 @@
 3	core	core	VERB	_	_	_	_	_	tokId=w-78
 4	bais	bais	NOUN	_	_	_	_	_	tokId=w-79|SpaceAfter=No
 5	.	.	PUNCT	_	_	_	_	_	tokId=w-80
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-14
+# text = Nan ta cana, manera ami.
+1	Nan	nan	PRON	_	_	_	_	_	tokId=w-81
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-82
+3	cana	cana	VERB	_	_	_	_	_	tokId=w-83|SpaceAfter=No
+4	,	,	PRON	_	_	_	_	_	tokId=w-84
+5	manera	manera	NOUN	_	_	_	_	_	tokId=w-85
+6	ami	ami	PRON	_	_	_	_	_	tokId=w-86|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-87
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-16
+# text = *Riksja ta un garoshi cu 2 of 3 wiel cu ta uza hopi na Asia.
+1	*	_	_	_	_	_	_	_	tokId=w-88|SpaceAfter=No
+2	Riksja	riksja	NOUN	_	_	_	_	_	tokId=w-89
+3	ta	ta	AUX	_	_	_	_	_	tokId=w-90
+4	un	un	DET	_	_	_	_	_	tokId=w-91
+5	garoshi	garoshi	NOUN	_	_	_	_	_	tokId=w-92
+6	cu	cu	ADP	_	_	_	_	_	tokId=w-93
+7	2	2	NUM	_	_	_	_	_	tokId=w-94
+8	of	of	SCONJ	_	_	_	_	_	tokId=w-95
+9	3	3	NUM	_	_	_	_	_	tokId=w-96
+10	wiel	wiel	NOUN	_	_	_	_	_	tokId=w-97
+11	cu	cu	ADP	_	_	_	_	_	tokId=w-98
+12	ta	ta	AUX	_	_	_	_	_	tokId=w-99
+13	uza	uza	VERB	_	_	_	_	_	tokId=w-100
+14	hopi	hopi	ADV	_	_	_	_	_	tokId=w-101
+15	na	na	ADP	_	_	_	_	_	tokId=w-102
+16	Asia	Asia	PROPN	_	_	_	_	_	tokId=w-103|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-104
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-19
+# text = Nos ta yega na e cura di scol.
+1	Nos	nos	PRON	_	_	_	_	_	tokId=w-105
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-106
+3	yega	yega	VERB	_	_	_	_	_	tokId=w-107
+4	na	na	ADP	_	_	_	_	_	tokId=w-108
+5	e	e	DET	_	_	_	_	_	tokId=w-109
+6	cura	cura	NOUN	_	_	_	_	_	tokId=w-110
+7	di	di	ADP	_	_	_	_	_	tokId=w-111
+8	scol	scol	NOUN	_	_	_	_	_	tokId=w-112|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-113
 
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-20
 # text = Mama ta laga mi man bay.
@@ -38,6 +159,17 @@
 6	bay	bay	ADV	_	_	_	_	_	tokId=w-119|SpaceAfter=No
 7	.	.	PUNCT	_	_	_	_	_	tokId=w-120
 
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-21
+# text = E ta keda para na e cura.
+1	E	e	SCONJ	_	_	_	_	_	tokId=w-121
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-122
+3	keda	keda	VERB	_	_	_	_	_	tokId=w-123
+4	para	para	ADP	_	_	_	_	_	tokId=w-124
+5	na	na	ADP	_	_	_	_	_	tokId=w-125
+6	e	e	DET	_	_	_	_	_	tokId=w-126
+7	cura	cura	NOUN	_	_	_	_	_	tokId=w-127|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-128
+
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-22
 # text = Mi mester drenta mi so.
 1	Mi	mi	PRON	_	_	_	_	_	tokId=w-129
@@ -46,6 +178,27 @@
 4	mi	mi	PRON	_	_	_	_	_	tokId=w-132
 5	so	so	ADV	_	_	_	_	_	tokId=w-133|SpaceAfter=No
 6	.	.	PUNCT	_	_	_	_	_	tokId=w-134
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-23
+# text = Tin hopi cara nobo tur rond di mi.
+1	Tin	tin	VERB	_	_	_	_	_	tokId=w-135
+2	hopi	hopi	ADV	_	_	_	_	_	tokId=w-136
+3	cara	cara	NOUN	_	_	_	_	_	tokId=w-137
+4	nobo	nobo	ADJ	_	_	_	_	_	tokId=w-138
+5	tur	tur	ADV	_	_	_	_	_	tokId=w-139
+6	rond	rond	ADV	_	_	_	_	_	tokId=w-140
+7	di	di	ADP	_	_	_	_	_	tokId=w-141
+8	mi	mi	PRON	_	_	_	_	_	tokId=w-142|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-143
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-26
+# text = Mi ta dal un stap.
+1	Mi	mi	PRON	_	_	_	_	_	tokId=w-144
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-145
+3	dal	dal	VERB	_	_	_	_	_	tokId=w-146
+4	un	un	DET	_	_	_	_	_	tokId=w-147
+5	stap	stap	NOUN	_	_	_	_	_	tokId=w-148|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-149
 
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-27
 # text = Mi ta dal un otro stap.
@@ -85,6 +238,17 @@
 3	disparce	disparce	VERB	_	_	_	_	_	tokId=w-174|SpaceAfter=No
 4	?	?	PUNCT	_	_	_	_	_	tokId=w-175
 
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-31
+# text = Mi ta core bay bek cerca dje.
+1	Mi	mi	PRON	_	_	_	_	_	tokId=w-176
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-177
+3	core	core	VERB	_	_	_	_	_	tokId=w-178
+4	bay	bay	ADV	_	_	_	_	_	tokId=w-179
+5	bek	bek	ADV	_	_	_	_	_	tokId=w-180
+6	cerca	cerca	ADP	_	_	_	_	_	tokId=w-181
+7	dje	dje	PRON	_	_	_	_	_	tokId=w-182|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-183
+
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-32
 # text = Mi no ta sinti mi asina grandi.
 1	Mi	mi	PRON	_	_	_	_	_	tokId=w-184
@@ -104,6 +268,27 @@
 4	su	su	PRON	_	_	_	_	_	tokId=w-195
 5	man	man	NOUN	_	_	_	_	_	tokId=w-196|SpaceAfter=No
 6	.	.	.	_	_	_	_	_	tokId=w-197
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-34
+# text = " No bay", mi ta bisa.
+1	"	"	"	_	_	_	_	_	tokId=w-198
+2	No	no	ADV	_	_	_	_	_	tokId=w-199
+3	bay	bay	ADV	_	_	_	_	_	tokId=w-200|SpaceAfter=No
+4	"	"	"	_	_	_	_	_	tokId=w-201|SpaceAfter=No
+5	,	,	,	_	_	_	_	_	tokId=w-202
+6	mi	mi	PRON	_	_	_	_	_	tokId=w-203
+7	ta	ta	AUX	_	_	_	_	_	tokId=w-204
+8	bisa	bisa	VERB	_	_	_	_	_	tokId=w-205|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-206
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-37
+# text = Tur hende ta paden awo.
+1	Tur	tur	ADV	_	_	_	_	_	tokId=w-207
+2	hende	hende	NOUN	_	_	_	_	_	tokId=w-208
+3	ta	ta	AUX	_	_	_	_	_	tokId=w-209
+4	paden	paden	ADV	_	_	_	_	_	tokId=w-210
+5	awo	awo	ADV	_	_	_	_	_	tokId=w-211|SpaceAfter=No
+6	.	.	.	_	_	_	_	_	tokId=w-212
 
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-38
 # text = Ami ta e unico pafo.
@@ -139,6 +324,35 @@
 4	bek	bek	ADV	_	_	_	_	_	tokId=w-233|SpaceAfter=No
 5	.	.	PUNCT	_	_	_	_	_	tokId=w-234
 
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-42
+# text = Mama ta bisa: " Rani, mi lo ta akinan ora bo sali. "
+1	Mama	mama	PROPN	_	_	_	_	_	tokId=w-235
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-236
+3	bisa	bisa	VERB	_	_	_	_	_	tokId=w-237|SpaceAfter=No
+4	:	:	PUNCT	_	_	_	_	_	tokId=w-238
+5	"	"	PUNCT	_	_	_	_	_	tokId=w-239
+6	Rani	Rani	PROPN	_	_	_	_	_	tokId=w-240|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-241
+8	mi	mi	PRON	_	_	_	_	_	tokId=w-242
+9	lo	lo	PRON	_	_	_	_	_	tokId=w-243
+10	ta	ta	AUX	_	_	_	_	_	tokId=w-244
+11	akinan	akinan	ADV	_	_	_	_	_	tokId=w-245
+12	ora	ora	ADV	_	_	_	_	_	tokId=w-246
+13	bo	bo	PRON	_	_	_	_	_	tokId=w-247
+14	sali	sali	VERB	_	_	_	_	_	tokId=w-248|SpaceAfter=No
+15	.	.	PUNCT	_	_	_	_	_	tokId=w-249
+16	"	"	PUNCT	_	_	_	_	_	tokId=w-250
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-43
+# text = Mi ta laga su man los.
+1	Mi	mi	PRON	_	_	_	_	_	tokId=w-251
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-252
+3	laga	laga	VERB	_	_	_	_	_	tokId=w-253
+4	su	su	PRON	_	_	_	_	_	tokId=w-254
+5	man	man	NOUNS	_	_	_	_	_	tokId=w-255
+6	los	los	ADV	_	_	_	_	_	tokId=w-256|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-257
+
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-44
 # text = E ta zwaai cu mi.
 1	E	e	PRON	_	_	_	_	_	tokId=w-258
@@ -147,6 +361,15 @@
 4	cu	cu	ADP	_	_	_	_	_	tokId=w-261
 5	mi	mi	PRON	_	_	_	_	_	tokId=w-262|SpaceAfter=No
 6	.	.	PUNCT	_	_	_	_	_	tokId=w-263
+
+# sent_id = 249276-rani-su-prome-dia-di-scol_s-47
+# text = Mi ta core bay paden.
+1	Mi	mi	PRON	_	_	_	_	_	tokId=w-264
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-265
+3	core	core	VERB	_	_	_	_	_	tokId=w-266
+4	bay	bay	ADV	_	_	_	_	_	tokId=w-267
+5	paden	paden	ADV	_	_	_	_	_	tokId=w-268|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-269
 
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-48
 # text = Mama lo t'ey ora scol caba!
