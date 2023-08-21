@@ -112,7 +112,7 @@
 1	Nan	nan	PRON	_	_	_	_	_	tokId=w-81
 2	ta	ta	AUX	_	_	_	_	_	tokId=w-82
 3	cana	cana	VERB	_	_	_	_	_	tokId=w-83|SpaceAfter=No
-4	,	,	PRON	_	_	_	_	_	tokId=w-84
+4	,	,	PUNCT	_	_	_	_	_	tokId=w-84
 5	manera	manera	NOUN	_	_	_	_	_	tokId=w-85
 6	ami	ami	PRON	_	_	_	_	_	tokId=w-86|SpaceAfter=No
 7	.	.	PUNCT	_	_	_	_	_	tokId=w-87
@@ -275,7 +275,7 @@
 2	No	no	ADV	_	_	_	_	_	tokId=w-199
 3	bay	bay	ADV	_	_	_	_	_	tokId=w-200|SpaceAfter=No
 4	"	"	"	_	_	_	_	_	tokId=w-201|SpaceAfter=No
-5	,	,	,	_	_	_	_	_	tokId=w-202
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-202
 6	mi	mi	PRON	_	_	_	_	_	tokId=w-203
 7	ta	ta	AUX	_	_	_	_	_	tokId=w-204
 8	bisa	bisa	VERB	_	_	_	_	_	tokId=w-205|SpaceAfter=No
