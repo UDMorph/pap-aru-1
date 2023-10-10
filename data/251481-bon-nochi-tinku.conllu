@@ -1,0 +1,454 @@
+# newdoc id = 251481-bon-nochi-tinku
+# sent_id = 251481-bon-nochi-tinku_s-11
+# text = Pero Ma no a tend’e .
+1	Pero	Pero	PRON	_	_	_	_	_	tokId=w-37
+2	Ma	Ma	PROPN	_	_	_	_	_	tokId=w-38
+3	no	no	ADV	_	_	_	_	_	tokId=w-39
+4	a	a	AUX	_	_	_	_	_	tokId=w-40
+5	tend’e	tenda	VERB	_	_	_	_	_	tokId=w-41
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-44
+
+# sent_id = 251481-bon-nochi-tinku_s-12
+# text = E tabata morto na soño.
+1	E	e	PRON	_	_	_	_	_	tokId=w-45
+2	tabata	ta	AUX	_	_	_	_	_	tokId=w-46
+3	morto	morto	ADJ	_	_	_	_	_	tokId=w-47
+4	na	na	ADP	_	_	_	_	_	tokId=w-48
+5	soño	soño	NOUN	_	_	_	_	_	tokId=w-49|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-50
+
+# sent_id = 251481-bon-nochi-tinku_s-18
+# text = Pero e no por a drumi!
+1	Pero	pero	SCONJ	_	_	_	_	_	tokId=w-75
+2	e	e	PRON	_	_	_	_	_	tokId=w-76
+3	no	no	ADV	_	_	_	_	_	tokId=w-77
+4	por	por	VERB	_	_	_	_	_	tokId=w-78
+5	a	a	ADP	_	_	_	_	_	tokId=w-79
+6	drumi	drumi	VERB	_	_	_	_	_	tokId=w-80|SpaceAfter=No
+7	!	!	PUNCT	_	_	_	_	_	tokId=w-81
+
+# sent_id = 251481-bon-nochi-tinku_s-23
+# text = Tinku tabata sinti hopi contento.
+1	Tinku	Tinku	PROPN	_	_	_	_	_	tokId=w-119
+2	tabata	ta	AUX	_	_	_	_	_	tokId=w-120
+3	sinti	sinti	VERB	_	_	_	_	_	tokId=w-121
+4	hopi	hopi	ADV	_	_	_	_	_	tokId=w-122
+5	contento	contento	ADJ	_	_	_	_	_	tokId=w-123|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-124
+
+# sent_id = 251481-bon-nochi-tinku_s-30
+# text = Un mancha di luz a bula bin abou!
+1	Un	un	DET	_	_	_	_	_	tokId=w-152
+2	mancha	mancha	NOUN	_	_	_	_	_	tokId=w-153
+3	di	di	ADP	_	_	_	_	_	tokId=w-154
+4	luz	luz	NOUN	_	_	_	_	_	tokId=w-155
+5	a	a	AUX	_	_	_	_	_	tokId=w-156
+6	bula	bula	VERB	_	_	_	_	_	tokId=w-157
+7	bin	bin	VERB	_	_	_	_	_	tokId=w-158
+8	abou	abou	ADV	_	_	_	_	_	tokId=w-159|SpaceAfter=No
+9	!	!	PUNCT	_	_	_	_	_	tokId=w-160
+
+# sent_id = 251481-bon-nochi-tinku_s-31
+# text = “ Mi ta un bichi di candela” , e mancha di luz a bisa.
+1	“	“	PUNCT	_	_	_	_	_	tokId=w-161
+2	Mi	mi	PRON	_	_	_	_	_	tokId=w-162
+3	ta	ta	AUX	_	_	_	_	_	tokId=w-163
+4	un	un	DET	_	_	_	_	_	tokId=w-164
+5	bichi	bichi	NOUN	_	_	_	_	_	tokId=w-165
+6	di	di	ADP	_	_	_	_	_	tokId=w-166
+7	candela	candela	NOUN	_	_	_	_	_	tokId=w-167|SpaceAfter=No
+8	”	”	PUNCT	_	_	_	_	_	tokId=w-168
+9	,	,	PUNCT	_	_	_	_	_	tokId=w-169
+10	e	e	DET	_	_	_	_	_	tokId=w-170
+11	mancha	mancha	NOUN	_	_	_	_	_	tokId=w-171
+12	di	di	ADP	_	_	_	_	_	tokId=w-172
+13	luz	luz	NOUN	_	_	_	_	_	tokId=w-173
+14	a	a	AUX	_	_	_	_	_	tokId=w-174
+15	bisa	bisa	VERB	_	_	_	_	_	tokId=w-175|SpaceAfter=No
+16	.	.	PUNCT	_	_	_	_	_	tokId=w-176
+
+# sent_id = 251481-bon-nochi-tinku_s-32
+# text = “Mi ta briya den scuridad!
+1	“	“	PUNCT	_	_	_	_	_	tokId=w-177|SpaceAfter=No
+2	Mi	mi	PRON	_	_	_	_	_	tokId=w-178
+3	ta	ta	AUX	_	_	_	_	_	tokId=w-179
+4	briya	briya	VERB	_	_	_	_	_	tokId=w-180
+5	den	den	DET	_	_	_	_	_	tokId=w-181
+6	scuridad	scuridad	NOUN	_	_	_	_	_	tokId=w-182|SpaceAfter=No
+7	!	!	PUNCT	_	_	_	_	_	tokId=w-183
+
+# sent_id = 251481-bon-nochi-tinku_s-33
+# text = ”
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-184
+
+# sent_id = 251481-bon-nochi-tinku_s-36
+# text = ” , Tinku a puntra.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-192
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-193
+3	Tinku	Tinku	PROPN	_	_	_	_	_	tokId=w-194
+4	a	a	AUX	_	_	_	_	_	tokId=w-195
+5	puntra	puntra	VERB	_	_	_	_	_	tokId=w-196|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-197
+
+# sent_id = 251481-bon-nochi-tinku_s-40
+# text = ” , e bichi di candela a bisa.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-204
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-205
+3	e	e	DET	_	_	_	_	_	tokId=w-206
+4	bichi	bichi	NOUN	_	_	_	_	_	tokId=w-207
+5	di	di	ADP	_	_	_	_	_	tokId=w-208
+6	candela	candela	NOUN	_	_	_	_	_	tokId=w-209
+7	a	a	AUX	_	_	_	_	_	tokId=w-210
+8	bisa	bisa	VERB	_	_	_	_	_	tokId=w-211|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-212
+
+# sent_id = 251481-bon-nochi-tinku_s-48
+# text = ” , Tinku a puntra.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-233
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-234
+3	Tinku	Tinku	PROPN	_	_	_	_	_	tokId=w-235
+4	a	a	AUX	_	_	_	_	_	tokId=w-236
+5	puntra	puntra	VERB	_	_	_	_	_	tokId=w-237|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-238
+
+# sent_id = 251481-bon-nochi-tinku_s-52
+# text = Mi por mira anochi!
+1	Mi	mi	PRON	_	_	_	_	_	tokId=w-253
+2	por	por	VERB	_	_	_	_	_	tokId=w-254
+3	mira	mira	VERB	_	_	_	_	_	tokId=w-255
+4	anochi	anochi	ADV	_	_	_	_	_	tokId=w-256|SpaceAfter=No
+5	!	!	PUNCT	_	_	_	_	_	tokId=w-257
+
+# sent_id = 251481-bon-nochi-tinku_s-53
+# text = ” , e raton di anochi a bisa.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-258
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-259
+3	e	e	DET	_	_	_	_	_	tokId=w-260
+4	raton	raton	NOUN	_	_	_	_	_	tokId=w-261
+5	di	di	ADP	_	_	_	_	_	tokId=w-262
+6	anochi	anochi	NOUN	_	_	_	_	_	tokId=w-263
+7	a	a	AUX	_	_	_	_	_	tokId=w-264
+8	bisa	bisa	VERB	_	_	_	_	_	tokId=w-265|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-266
+
+# sent_id = 251481-bon-nochi-tinku_s-57
+# text = ” , Tinku a puntra.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-274
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-275
+3	Tinku	Tinku	PROPN	_	_	_	_	_	tokId=w-276
+4	a	a	AUX	_	_	_	_	_	tokId=w-277
+5	puntra	puntra	VERB	_	_	_	_	_	tokId=w-278|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-279
+
+# sent_id = 251481-bon-nochi-tinku_s-61
+# text = ” , e raton di anochi a bisa.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-286
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-287
+3	e	e	DET	_	_	_	_	_	tokId=w-288
+4	raton	raton	NOUN	_	_	_	_	_	tokId=w-289
+5	di	di	ADP	_	_	_	_	_	tokId=w-290
+6	anochi	anochi	NOUN	_	_	_	_	_	tokId=w-291
+7	a	a	AUX	_	_	_	_	_	tokId=w-292
+8	bisa	bisa	VERB	_	_	_	_	_	tokId=w-293|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-294
+
+# sent_id = 251481-bon-nochi-tinku_s-65
+# text = Tabatin un hende scondi!
+1	Tabatin	ta	AUX	_	_	_	_	_	tokId=w-305
+2	un	un	DET	_	_	_	_	_	tokId=w-306
+3	hende	hende	NOUN	_	_	_	_	_	tokId=w-307
+4	scondi	scondi	ADJ	_	_	_	_	_	tokId=w-308|SpaceAfter=No
+5	!	!	PUNCT	_	_	_	_	_	tokId=w-309
+
+# sent_id = 251481-bon-nochi-tinku_s-67
+# text = ” , Tinku a puntra.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-315
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-316
+3	Tinku	Tinku	PROPN	_	_	_	_	_	tokId=w-317
+4	a	a	AUX	_	_	_	_	_	tokId=w-318
+5	puntra	puntra	VERB	_	_	_	_	_	tokId=w-319|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-320
+
+# sent_id = 251481-bon-nochi-tinku_s-71
+# text = “Mi ta sali keiro anochi.
+1	“	“	PUNCT	_	_	_	_	_	tokId=w-333|SpaceAfter=No
+2	Mi	mi	PRON	_	_	_	_	_	tokId=w-334
+3	ta	ta	AUX	_	_	_	_	_	tokId=w-335
+4	sali	sali	VERB	_	_	_	_	_	tokId=w-336
+5	keiro	keiro	VERB	_	_	_	_	_	tokId=w-337
+6	anochi	anochi	ADV	_	_	_	_	_	tokId=w-338|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-339
+
+# sent_id = 251481-bon-nochi-tinku_s-72
+# text = ” “Bo kier ta mi amigo?
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-340
+2	“	“	PUNCT	_	_	_	_	_	tokId=w-341|SpaceAfter=No
+3	Bo	bo	PRON	_	_	_	_	_	tokId=w-342
+4	kier	kier	VERB	_	_	_	_	_	tokId=w-343
+5	ta	ta	AUX	_	_	_	_	_	tokId=w-344
+6	mi	mi	PRON	_	_	_	_	_	tokId=w-345
+7	amigo	amigo	NOUN	_	_	_	_	_	tokId=w-346|SpaceAfter=No
+8	?	?	PUNCT	_	_	_	_	_	tokId=w-347
+
+# sent_id = 251481-bon-nochi-tinku_s-73
+# text = ”, Tinku a puntra.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-348|SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-349
+3	Tinku	Tinku	PROPN	_	_	_	_	_	tokId=w-350
+4	a	a	AUX	_	_	_	_	_	tokId=w-351
+5	puntra	puntra	VERB	_	_	_	_	_	tokId=w-352|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-353
+
+# sent_id = 251481-bon-nochi-tinku_s-77
+# text = ” , e vos a bisa.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-360
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-361
+3	e	e	DET	_	_	_	_	_	tokId=w-362
+4	vos	vos	NOUN	_	_	_	_	_	tokId=w-363
+5	a	a	AUX	_	_	_	_	_	tokId=w-364
+6	bisa	bisa	VERB	_	_	_	_	_	tokId=w-365|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-366
+
+# sent_id = 251481-bon-nochi-tinku_s-81
+# text = “ Ken bo ta?
+1	“	“	PUNCT	_	_	_	_	_	tokId=w-378
+2	Ken	Ken	PRON	_	_	_	_	_	tokId=w-379
+3	bo	bo	PRON	_	_	_	_	_	tokId=w-380
+4	ta	ta	AUX	_	_	_	_	_	tokId=w-381|SpaceAfter=No
+5	?	?	PUNCT	_	_	_	_	_	tokId=w-382
+
+# sent_id = 251481-bon-nochi-tinku_s-82
+# text = ” , Tinku a puntra.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-383
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-384
+3	Tinku	Tinku	PROPN	_	_	_	_	_	tokId=w-385
+4	a	a	AUX	_	_	_	_	_	tokId=w-386
+5	puntra	puntra	VERB	_	_	_	_	_	tokId=w-387|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-388
+
+# sent_id = 251481-bon-nochi-tinku_s-86
+# text = “Mi ta jaag pa cuminda den anochi.
+1	“	“	PUNCT	_	_	_	_	_	tokId=w-401|SpaceAfter=No
+2	Mi	mi	PRON	_	_	_	_	_	tokId=w-402
+3	ta	ta	AUX	_	_	_	_	_	tokId=w-403
+4	jaag	jaag	VERB	_	_	_	_	_	tokId=w-404
+5	pa	pa	ADP	_	_	_	_	_	tokId=w-405
+6	cuminda	cuminda	NOUN	_	_	_	_	_	tokId=w-406
+7	den	den	ADP	_	_	_	_	_	tokId=w-407
+8	anochi	anochi	NOUN	_	_	_	_	_	tokId=w-408|SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	tokId=w-409
+
+# sent_id = 251481-bon-nochi-tinku_s-87
+# text = ”
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-410
+
+# sent_id = 251481-bon-nochi-tinku_s-90
+# text = ” , Tinku a puntra.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-418
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-419
+3	Tinku	Tinku	PROPN	_	_	_	_	_	tokId=w-420
+4	a	a	AUX	_	_	_	_	_	tokId=w-421
+5	puntra	puntra	VERB	_	_	_	_	_	tokId=w-422|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-423
+
+# sent_id = 251481-bon-nochi-tinku_s-94
+# text = ” , e shoco a bisa.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-430
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-431
+3	e	e	DET	_	_	_	_	_	tokId=w-432
+4	shoco	shoco	NOUN	_	_	_	_	_	tokId=w-433
+5	a	a	AUX	_	_	_	_	_	tokId=w-434
+6	bisa	bisa	VERB	_	_	_	_	_	tokId=w-435|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-436
+
+# sent_id = 251481-bon-nochi-tinku_s-98
+# text = Chipchip!
+1	Chipchip	chipchip	INTJ	_	_	_	_	_	tokId=w-440|SpaceAfter=No
+2	!	!	PUNCT	_	_	_	_	_	tokId=w-441
+
+# sent_id = 251481-bon-nochi-tinku_s-99
+# text = ”
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-442
+
+# sent_id = 251481-bon-nochi-tinku_s-102
+# text = ” , Tinku a puntra.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-449
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-450
+3	Tinku	Tinku	PROPN	_	_	_	_	_	tokId=w-451
+4	a	a	AUX	_	_	_	_	_	tokId=w-452
+5	puntra	puntra	VERB	_	_	_	_	_	tokId=w-453|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-454
+
+# sent_id = 251481-bon-nochi-tinku_s-106
+# text = “Mi ta chipchip ora ta scur.
+1	“	“	PUNCT	_	_	_	_	_	tokId=w-467|SpaceAfter=No
+2	Mi	mi	PRON	_	_	_	_	_	tokId=w-468
+3	ta	ta	AUX	_	_	_	_	_	tokId=w-469
+4	chipchip	chipchip	VERB	_	_	_	_	_	tokId=w-470
+5	ora	ora	ADV	_	_	_	_	_	tokId=w-471
+6	ta	ta	AUX	_	_	_	_	_	tokId=w-472
+7	scur	scur	ADJ	_	_	_	_	_	tokId=w-473|SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	tokId=w-474
+
+# sent_id = 251481-bon-nochi-tinku_s-107
+# text = ”
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-475
+
+# sent_id = 251481-bon-nochi-tinku_s-108
+# text = ” , Tinku a puntra.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-483
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-484
+3	Tinku	Tinku	PROPN	_	_	_	_	_	tokId=w-485
+4	a	a	AUX	_	_	_	_	_	tokId=w-486
+5	puntra	puntra	VERB	_	_	_	_	_	tokId=w-487|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-488
+
+# sent_id = 251481-bon-nochi-tinku_s-112
+# text = ” , e criki a bisa.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-495
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-496
+3	e	e	DET	_	_	_	_	_	tokId=w-497
+4	criki	criki	NOUN	_	_	_	_	_	tokId=w-498
+5	a	a	AUX	_	_	_	_	_	tokId=w-499
+6	bisa	bisa	VERB	_	_	_	_	_	tokId=w-500|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-501
+
+# sent_id = 251481-bon-nochi-tinku_s-116
+# text = “ Mi tin soño.
+1	“	“	PUNCT	_	_	_	_	_	tokId=w-519
+2	Mi	mi	PRON	_	_	_	_	_	tokId=w-520
+3	tin	tin	VERB	_	_	_	_	_	tokId=w-521
+4	soño	soño	NOUN	_	_	_	_	_	tokId=w-522|SpaceAfter=No
+5	.	.	PUNCT	_	_	_	_	_	tokId=w-523
+
+# sent_id = 251481-bon-nochi-tinku_s-117
+# text = Mi tin cu bay cas awo” , Tinku a bisa.
+1	Mi	mi	PRON	_	_	_	_	_	tokId=w-524
+2	tin	tin	VERB	_	_	_	_	_	tokId=w-525
+3	cu	cu	ADP	_	_	_	_	_	tokId=w-526
+4	bay	bay	ADV	_	_	_	_	_	tokId=w-527
+5	cas	cas	NOUN	_	_	_	_	_	tokId=w-528
+6	awo	awo	ADV	_	_	_	_	_	tokId=w-529|SpaceAfter=No
+7	”	”	PUNCT	_	_	_	_	_	tokId=w-530
+8	,	,	PUNCT	_	_	_	_	_	tokId=w-531
+9	Tinku	Tinku	PROPN	_	_	_	_	_	tokId=w-532
+10	a	a	AUX	_	_	_	_	_	tokId=w-533
+11	bisa	bisa	VERB	_	_	_	_	_	tokId=w-534|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-535
+
+# sent_id = 251481-bon-nochi-tinku_s-118
+# text = E tabata contento cu e tin hopi amigo nobo.
+1	E	e	SCONJ	_	_	_	_	_	tokId=w-536
+2	tabata	ta	AUX	_	_	_	_	_	tokId=w-537
+3	contento	contento	ADJ	_	_	_	_	_	tokId=w-538
+4	cu	cu	ADP	_	_	_	_	_	tokId=w-539
+5	e	e	PRON	_	_	_	_	_	tokId=w-540
+6	tin	tin	VERB	_	_	_	_	_	tokId=w-541
+7	hopi	hopi	ADV	_	_	_	_	_	tokId=w-542
+8	amigo	amigo	NOUN	_	_	_	_	_	tokId=w-543
+9	nobo	nobo	ADJ	_	_	_	_	_	tokId=w-544|SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	tokId=w-545
+
+# sent_id = 251481-bon-nochi-tinku_s-123
+# text = Anochi ta yen di ser maraviyoso.
+1	Anochi	Anochi	NOUN	_	_	_	_	_	tokId=w-570
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-571
+3	yen	yen	ADJ	_	_	_	_	_	tokId=w-572
+4	di	di	PRON	_	_	_	_	_	tokId=w-573
+5	ser	ser	NOUN	_	_	_	_	_	tokId=w-574
+6	maraviyoso	maraviyoso	ADJ	_	_	_	_	_	tokId=w-575|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-576
+
+# sent_id = 251481-bon-nochi-tinku_s-124
+# text = ”
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-577
+
+# sent_id = 251481-bon-nochi-tinku_s-126
+# text = ” , Ma a bisa.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-581
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-582
+3	Ma	Ma	PROPN	_	_	_	_	_	tokId=w-583
+4	a	a	AUX	_	_	_	_	_	tokId=w-584
+5	bisa	bisa	VERB	_	_	_	_	_	tokId=w-585|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-586
+
+# sent_id = 251481-bon-nochi-tinku_s-127
+# text = “Bo amigonan nobo ta nocturno, mescos cu cacho salvahe.
+1	“	“	PUNCT	_	_	_	_	_	tokId=w-587|SpaceAfter=No
+2	Bo	bo	PRON	_	_	_	_	_	tokId=w-588
+3	amigonan	amigo	NOUN	_	_	_	_	_	tokId=w-589
+4	nobo	nobo	ADJ	_	_	_	_	_	tokId=w-590
+5	ta	ta	AUX	_	_	_	_	_	tokId=w-591
+6	nocturno	nocturno	ADJ	_	_	_	_	_	tokId=w-592|SpaceAfter=No
+7	,	,	PUNCT	_	_	_	_	_	tokId=w-593
+8	mescos	mescos	ADV	_	_	_	_	_	tokId=w-594
+9	cu	cu	ADP	_	_	_	_	_	tokId=w-595
+10	cacho	cacho	NOUN	_	_	_	_	_	tokId=w-596
+11	salvahe	salvahe	ADJ	_	_	_	_	_	tokId=w-597|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-598
+
+# sent_id = 251481-bon-nochi-tinku_s-128
+# text = ”
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-599
+
+# sent_id = 251481-bon-nochi-tinku_s-131
+# text = Nan ta sosega durante dia.
+1	Nan	nan	PRON	_	_	_	_	_	tokId=w-611
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-612
+3	sosega	sosega	VERB	_	_	_	_	_	tokId=w-613
+4	durante	durante	ADP	_	_	_	_	_	tokId=w-614
+5	dia	dia	NOUN	_	_	_	_	_	tokId=w-615|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-616
+
+# sent_id = 251481-bon-nochi-tinku_s-132
+# text = Bo mester bay drumi awo.
+1	Bo	bo	PRON	_	_	_	_	_	tokId=w-617
+2	mester	mester	VERB	_	_	_	_	_	tokId=w-618
+3	bay	bay	VERB	_	_	_	_	_	tokId=w-619
+4	drumi	drumi	VERB	_	_	_	_	_	tokId=w-620
+5	awo	awo	ADV	_	_	_	_	_	tokId=w-621|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-622
+
+# sent_id = 251481-bon-nochi-tinku_s-133
+# text = Un bon soño lo duna bo energia pa hunga cu bo amigonan di den dia mañan.
+1	Un	un	DET	_	_	_	_	_	tokId=w-623
+2	bon	bon	ADV	_	_	_	_	_	tokId=w-624
+3	soño	soño	NOUN	_	_	_	_	_	tokId=w-625
+4	lo	lo	PRON	_	_	_	_	_	tokId=w-626
+5	duna	duna	VERB	_	_	_	_	_	tokId=w-627
+6	bo	bo	PRON	_	_	_	_	_	tokId=w-628
+7	energia	energia	NOUN	_	_	_	_	_	tokId=w-629
+8	pa	pa	ADP	_	_	_	_	_	tokId=w-630
+9	hunga	hunga	VERB	_	_	_	_	_	tokId=w-631
+10	cu	cu	ADP	_	_	_	_	_	tokId=w-632
+11	bo	bo	PRON	_	_	_	_	_	tokId=w-633
+12	amigonan	amigo	NOUN	_	_	_	_	_	tokId=w-634
+13	di	di	ADP	_	_	_	_	_	tokId=w-635
+14	den	den	ADP	_	_	_	_	_	tokId=w-636
+15	dia	dia	NOUN	_	_	_	_	_	tokId=w-637
+16	mañan	mañan	ADV	_	_	_	_	_	tokId=w-638|SpaceAfter=No
+17	.	.	PUNCT	_	_	_	_	_	tokId=w-639
+
+# sent_id = 251481-bon-nochi-tinku_s-134
+# text = Bon nochi, chikitin!
+1	Bon	bon	ADJ	_	_	_	_	_	tokId=w-640
+2	nochi	nochi	NOUN	_	_	_	_	_	tokId=w-641|SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	tokId=w-642
+4	chikitin	chikitin	NOUN	_	_	_	_	_	tokId=w-643|SpaceAfter=No
+5	!	!	PUNCT	_	_	_	_	_	tokId=w-644
+
+# sent_id = 251481-bon-nochi-tinku_s-135
+# text = ” , el a bisa y a bras’e duro.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-645
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-646
+3	el	el	PRON	_	_	_	_	_	tokId=w-647
+4	a	a	AUX	_	_	_	_	_	tokId=w-648
+5	bisa	bisa	VERB	_	_	_	_	_	tokId=w-649
+6	y	y	CCONJ	_	_	_	_	_	tokId=w-650
+7	a	a	AUX	_	_	_	_	_	tokId=w-651
+8-9	bras’e	_	_	_	_	_	_	_	tokId=w-652
+8	_	brasa	VERB	_	_	_	_	_	_|tokId=d-652-1
+9	_	e	PRON	_	_	_	_	_	_|tokId=d-652-2
+10	duro	duro	ADV	_	_	_	_	_	tokId=w-655|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-656
+

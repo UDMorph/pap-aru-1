@@ -16,7 +16,7 @@
 3	tene	tene	VERB	_	_	_	_	_	tokId=w-10
 4	mi	mi	PRON	_	_	_	_	_	tokId=w-11
 5	man	man	NOUN	_	_	_	_	_	tokId=w-12
-6	y	y	SCONJ	_	_	_	_	_	tokId=w-13
+6	y	y	CCONJ	_	_	_	_	_	tokId=w-13
 7	ta	ta	AUX	_	_	_	_	_	tokId=w-14
 8	cana	cana	NOUN	_	_	_	_	_	tokId=w-15
 9	cu	cu	ADP	_	_	_	_	_	tokId=w-16
@@ -96,7 +96,7 @@
 3	bin	bin	VERB	_	_	_	_	_	tokId=w-71
 4	cu	cu	ADP	_	_	_	_	_	tokId=w-72
 5	riksja	riksja	NOUN	_	_	_	_	_	tokId=w-73|SpaceAfter=No
-6	*	_	_	_	_	_	_	_	tokId=w-74
+6	*	_	PUNCT	_	_	_	_	_	tokId=w-74
 7	.	.	PUNCT	_	_	_	_	_	tokId=w-75
 
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-13
@@ -119,7 +119,7 @@
 
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-16
 # text = *Riksja ta un garoshi cu 2 of 3 wiel cu ta uza hopi na Asia.
-1	*	_	_	_	_	_	_	_	tokId=w-88|SpaceAfter=No
+1	*	_	PUNCT	_	_	_	_	_	tokId=w-88|SpaceAfter=No
 2	Riksja	riksja	NOUN	_	_	_	_	_	tokId=w-89
 3	ta	ta	AUX	_	_	_	_	_	tokId=w-90
 4	un	un	DET	_	_	_	_	_	tokId=w-91
@@ -267,14 +267,14 @@
 3	tene	tene	VERB	_	_	_	_	_	tokId=w-194
 4	su	su	PRON	_	_	_	_	_	tokId=w-195
 5	man	man	NOUN	_	_	_	_	_	tokId=w-196|SpaceAfter=No
-6	.	.	.	_	_	_	_	_	tokId=w-197
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-197
 
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-34
 # text = " No bay", mi ta bisa.
-1	"	"	"	_	_	_	_	_	tokId=w-198
+1	"	"	PUNCT	_	_	_	_	_	tokId=w-198
 2	No	no	ADV	_	_	_	_	_	tokId=w-199
 3	bay	bay	ADV	_	_	_	_	_	tokId=w-200|SpaceAfter=No
-4	"	"	"	_	_	_	_	_	tokId=w-201|SpaceAfter=No
+4	"	"	PUNCT	_	_	_	_	_	tokId=w-201|SpaceAfter=No
 5	,	,	PUNCT	_	_	_	_	_	tokId=w-202
 6	mi	mi	PRON	_	_	_	_	_	tokId=w-203
 7	ta	ta	AUX	_	_	_	_	_	tokId=w-204
@@ -288,7 +288,7 @@
 3	ta	ta	AUX	_	_	_	_	_	tokId=w-209
 4	paden	paden	ADV	_	_	_	_	_	tokId=w-210
 5	awo	awo	ADV	_	_	_	_	_	tokId=w-211|SpaceAfter=No
-6	.	.	.	_	_	_	_	_	tokId=w-212
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-212
 
 # sent_id = 249276-rani-su-prome-dia-di-scol_s-38
 # text = Ami ta e unico pafo.
