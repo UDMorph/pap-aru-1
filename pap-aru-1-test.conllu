@@ -1,26 +1,64 @@
-# text = ”
-1	”	”	PUNCT	_	_	_	_	_	tokId=w-184
+# text = ” , Tinku a puntra.
+1	”	”	PUNCT	_	_	_	_	_	tokId=w-274
+2	,	,	PUNCT	_	_	_	_	_	tokId=w-275
+3	Tinku	Tinku	PROPN	_	_	_	_	_	tokId=w-276
+4	a	a	AUX	_	_	_	_	_	tokId=w-277
+5	puntra	puntra	VERB	_	_	_	_	_	tokId=w-278|SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	tokId=w-279
 
-# text = Nan ta sosega durante dia.
-1	Nan	nan	PRON	_	_	_	_	_	tokId=w-611
-2	ta	ta	AUX	_	_	_	_	_	tokId=w-612
-3	sosega	sosega	VERB	_	_	_	_	_	tokId=w-613
-4	durante	durante	ADP	_	_	_	_	_	tokId=w-614
-5	dia	dia	NOUN	_	_	_	_	_	tokId=w-615|SpaceAfter=No
-6	.	.	PUNCT	_	_	_	_	_	tokId=w-616
+# text = “Mi ta sali keiro anochi.
+1	“	“	PUNCT	_	_	_	_	_	tokId=w-333|SpaceAfter=No
+2	Mi	mi	PRON	_	_	_	_	_	tokId=w-334
+3	ta	ta	AUX	_	_	_	_	_	tokId=w-335
+4	sali	sali	VERB	_	_	_	_	_	tokId=w-336
+5	keiro	keiro	VERB	_	_	_	_	_	tokId=w-337
+6	anochi	anochi	ADV	_	_	_	_	_	tokId=w-338|SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-339
 
-# text = , Padu ta hari.
-1	,	,	PUNCT	_	_	_	_	_	tokId=w-401
-2	Padu	Padu	PROPN	_	_	_	_	_	tokId=w-402
-3	ta	ta	AUX	_	_	_	_	_	tokId=w-403
-4	hari	hari	VERB	_	_	_	_	_	tokId=w-404|SpaceAfter=No
-5	.	.	PUNCT	_	_	_	_	_	tokId=w-405
+# text = El a cuminsa zweef bay na e nubia di e bayena.
+1	El	el	PRON	_	_	_	_	_	tokId=w-252
+2	a	a	AUX	_	_	_	_	_	tokId=w-253
+3	cuminsa	cuminsa	VERB	_	_	_	_	_	tokId=w-254
+4	zweef	zweef	VERB	_	_	_	_	_	tokId=w-255
+5	bay	bay	ADV	_	_	_	_	_	tokId=w-256
+6	na	na	ADP	_	_	_	_	_	tokId=w-257
+7	e	e	DET	_	_	_	_	_	tokId=w-258
+8	nubia	nubia	NOUN	_	_	_	_	_	tokId=w-259
+9	di	di	ADP	_	_	_	_	_	tokId=w-260
+10	e	e	DET	_	_	_	_	_	tokId=w-261
+11	bayena	bayena	NOUN	_	_	_	_	_	tokId=w-262|SpaceAfter=No
+12	.	.	PUNCT	_	_	_	_	_	tokId=w-263
 
-# text = E lo disparce?
-1	E	e	SCONJ	_	_	_	_	_	tokId=w-172
-2	lo	lo	PRON	_	_	_	_	_	tokId=w-173
-3	disparce	disparce	VERB	_	_	_	_	_	tokId=w-174|SpaceAfter=No
-4	?	?	PUNCT	_	_	_	_	_	tokId=w-175
+# text = Mama lo t'ey ora scol caba!
+1	Mama	mama	PROPN	_	_	_	_	_	tokId=w-270
+2	lo	lo	PRON	_	_	_	_	_	tokId=w-271
+3	t'ey	t'ey	ADV	_	_	_	_	_	tokId=w-272
+4	ora	ora	ADV	_	_	_	_	_	tokId=w-275
+5	scol	scol	NOUN	_	_	_	_	_	tokId=w-276
+6	caba	caba	VERB	_	_	_	_	_	tokId=w-277|SpaceAfter=No
+7	!	!	PUNCT	_	_	_	_	_	tokId=w-278
+
+# text = Nan ta bin cu riksja* .
+1	Nan	nan	PRON	_	_	_	_	_	tokId=w-69
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-70
+3	bin	bin	VERB	_	_	_	_	_	tokId=w-71
+4	cu	cu	ADP	_	_	_	_	_	tokId=w-72
+5	riksja	riksja	NOUN	_	_	_	_	_	tokId=w-73|SpaceAfter=No
+6	*	_	PUNCT	_	_	_	_	_	tokId=w-74
+7	.	.	PUNCT	_	_	_	_	_	tokId=w-75
+
+# text = Mama ta tene mi man y ta cana cu mi.
+1	Mama	mama	PROPN	_	_	_	_	_	tokId=w-8
+2	ta	ta	AUX	_	_	_	_	_	tokId=w-9
+3	tene	tene	VERB	_	_	_	_	_	tokId=w-10
+4	mi	mi	PRON	_	_	_	_	_	tokId=w-11
+5	man	man	NOUN	_	_	_	_	_	tokId=w-12
+6	y	y	CCONJ	_	_	_	_	_	tokId=w-13
+7	ta	ta	AUX	_	_	_	_	_	tokId=w-14
+8	cana	cana	NOUN	_	_	_	_	_	tokId=w-15
+9	cu	cu	ADP	_	_	_	_	_	tokId=w-16
+10	mi	mi	PRON	_	_	_	_	_	tokId=w-17|SpaceAfter=No
+11	.	.	PUNCT	_	_	_	_	_	tokId=w-18
 
 # text = Den winter, ora cu e lamanan polar vries, nan ta bay na e zona tropical.
 1	Den	den	ADP	_	_	_	_	_	tokId=w-730
@@ -42,79 +80,37 @@
 17	tropical	tropical	ADJ	_	_	_	_	_	tokId=w-746|SpaceAfter=No
 18	.	.	PUNCT	_	_	_	_	_	tokId=w-747
 
-# text = ” , e bichi di candela a bisa.
-1	”	”	PUNCT	_	_	_	_	_	tokId=w-204
-2	,	,	PUNCT	_	_	_	_	_	tokId=w-205
-3	e	e	DET	_	_	_	_	_	tokId=w-206
-4	bichi	bichi	NOUN	_	_	_	_	_	tokId=w-207
-5	di	di	ADP	_	_	_	_	_	tokId=w-208
-6	candela	candela	NOUN	_	_	_	_	_	tokId=w-209
-7	a	a	AUX	_	_	_	_	_	tokId=w-210
-8	bisa	bisa	VERB	_	_	_	_	_	tokId=w-211|SpaceAfter=No
-9	.	.	PUNCT	_	_	_	_	_	tokId=w-212
-
-# text = Mi ta smile bek.
-1	Mi	mi	PRON	_	_	_	_	_	tokId=w-230
-2	ta	ta	AUX	_	_	_	_	_	tokId=w-231
-3	smile	smile	VERB	_	_	_	_	_	tokId=w-232
-4	bek	bek	ADV	_	_	_	_	_	tokId=w-233|SpaceAfter=No
-5	.	.	PUNCT	_	_	_	_	_	tokId=w-234
-
-# text = Esnan cu ta biba panort nunca ta crusa bay pazuid.
-1	Esnan	Es	PRON	_	_	_	_	_	tokId=w-763
-2	cu	cu	SCONJ	_	_	_	_	_	tokId=w-764
-3	ta	ta	AUX	_	_	_	_	_	tokId=w-765
-4	biba	biba	VERB	_	_	_	_	_	tokId=w-766
-5	panort	panort	ADV	_	_	_	_	_	tokId=w-767
-6	nunca	nunca	ADV	_	_	_	_	_	tokId=w-768
-7	ta	ta	AUX	_	_	_	_	_	tokId=w-769
-8	crusa	crusa	VERB	_	_	_	_	_	tokId=w-770
-9	bay	bay	ADV	_	_	_	_	_	tokId=w-771
-10	pazuid	pazuid	ADV	_	_	_	_	_	tokId=w-772|SpaceAfter=No
-11	.	.	PUNCT	_	_	_	_	_	tokId=w-773
-
-# text = Nan ta bin cu auto.
-1	Nan	nan	PRON	_	_	_	_	_	tokId=w-63
-2	ta	ta	AUX	_	_	_	_	_	tokId=w-64
-3	bin	bin	VERB	_	_	_	_	_	tokId=w-65
-4	cu	cu	ADP	_	_	_	_	_	tokId=w-66
-5	auto	auto	NOUN	_	_	_	_	_	tokId=w-67|SpaceAfter=No
-6	.	.	PUNCT	_	_	_	_	_	tokId=w-68
-
-# text = ”
-1	”	”	PUNCT	_	_	_	_	_	tokId=w-599
-
-# text = “ Mi ta un bichi di candela” , e mancha di luz a bisa.
-1	“	“	PUNCT	_	_	_	_	_	tokId=w-161
-2	Mi	mi	PRON	_	_	_	_	_	tokId=w-162
-3	ta	ta	AUX	_	_	_	_	_	tokId=w-163
-4	un	un	DET	_	_	_	_	_	tokId=w-164
-5	bichi	bichi	NOUN	_	_	_	_	_	tokId=w-165
-6	di	di	ADP	_	_	_	_	_	tokId=w-166
-7	candela	candela	NOUN	_	_	_	_	_	tokId=w-167|SpaceAfter=No
-8	”	”	PUNCT	_	_	_	_	_	tokId=w-168
-9	,	,	PUNCT	_	_	_	_	_	tokId=w-169
-10	e	e	DET	_	_	_	_	_	tokId=w-170
-11	mancha	mancha	NOUN	_	_	_	_	_	tokId=w-171
-12	di	di	ADP	_	_	_	_	_	tokId=w-172
-13	luz	luz	NOUN	_	_	_	_	_	tokId=w-173
-14	a	a	AUX	_	_	_	_	_	tokId=w-174
-15	bisa	bisa	VERB	_	_	_	_	_	tokId=w-175|SpaceAfter=No
-16	.	.	PUNCT	_	_	_	_	_	tokId=w-176
-
-# text = “Mi ta sali keiro anochi.
-1	“	“	PUNCT	_	_	_	_	_	tokId=w-333|SpaceAfter=No
-2	Mi	mi	PRON	_	_	_	_	_	tokId=w-334
-3	ta	ta	AUX	_	_	_	_	_	tokId=w-335
-4	sali	sali	VERB	_	_	_	_	_	tokId=w-336
-5	keiro	keiro	VERB	_	_	_	_	_	tokId=w-337
-6	anochi	anochi	ADV	_	_	_	_	_	tokId=w-338|SpaceAfter=No
-7	.	.	PUNCT	_	_	_	_	_	tokId=w-339
-
-# text = Nan baby yama bishe.
-1	Nan	nan	PRON	_	_	_	_	_	tokId=w-676
-2	baby	baby	NOUN	_	_	_	_	_	tokId=w-677
-3	yama	yama	VERB	_	_	_	_	_	tokId=w-678
-4	bishe	bishe	NOUN	_	_	_	_	_	tokId=w-679|SpaceAfter=No
-5	.	.	PUNCT	_	_	_	_	_	tokId=w-680
+# text = Na luga di esey, nan ta come bestia hopi chikito door di guli un cantidad grandi di awa y despues nan ta filter e bestianan den nan plachinan di balein.
+1	Na	na	ADP	_	_	_	_	_	tokId=w-627
+2	luga	luga	NOUN	_	_	_	_	_	tokId=w-628
+3	di	di	ADP	_	_	_	_	_	tokId=w-629
+4	esey	esey	PRON	_	_	_	_	_	tokId=w-630|SpaceAfter=No
+5	,	,	PUNCT	_	_	_	_	_	tokId=w-631
+6	nan	nan	PRON	_	_	_	_	_	tokId=w-632
+7	ta	ta	AUX	_	_	_	_	_	tokId=w-633
+8	come	come	VERB	_	_	_	_	_	tokId=w-634
+9	bestia	bestia	NOUN	_	_	_	_	_	tokId=w-635
+10	hopi	hopi	ADV	_	_	_	_	_	tokId=w-636
+11	chikito	chikito	ADJ	_	_	_	_	_	tokId=w-637
+12	door	door	ADP	_	_	_	_	_	tokId=w-638
+13	di	di	ADP	_	_	_	_	_	tokId=w-639
+14	guli	guli	NOUN	_	_	_	_	_	tokId=w-640
+15	un	un	DET	_	_	_	_	_	tokId=w-641
+16	cantidad	cantidad	NOUN	_	_	_	_	_	tokId=w-642
+17	grandi	grandi	ADJ	_	_	_	_	_	tokId=w-643
+18	di	di	ADP	_	_	_	_	_	tokId=w-644
+19	awa	awa	NOUN	_	_	_	_	_	tokId=w-645
+20	y	y	CCONJ	_	_	_	_	_	tokId=w-646
+21	despues	despues	ADV	_	_	_	_	_	tokId=w-647
+22	nan	nan	PRON	_	_	_	_	_	tokId=w-648
+23	ta	ta	AUX	_	_	_	_	_	tokId=w-649
+24	filter	filter	VERB	_	_	_	_	_	tokId=w-650
+25	e	e	DET	_	_	_	_	_	tokId=w-651
+26	bestianan	bestia	NOUN	_	_	_	_	_	tokId=w-652
+27	den	den	ADP	_	_	_	_	_	tokId=w-653
+28	nan	nan	PRON	_	_	_	_	_	tokId=w-654
+29	plachinan	plachi	NOUN	_	_	_	_	_	tokId=w-655
+30	di	di	ADP	_	_	_	_	_	tokId=w-656
+31	balein	balein	NOUN	_	_	_	_	_	tokId=w-657|SpaceAfter=No
+32	.	.	PUNCT	_	_	_	_	_	tokId=w-658
 
